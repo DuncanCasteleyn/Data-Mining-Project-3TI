@@ -149,3 +149,4 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+datasets/homocide_reports_1980-2014_filtered.csv.gz
